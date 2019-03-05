@@ -30,7 +30,7 @@ namespace TestApps
             }
         }
 
-        // This could definately be made faster.
+        // This could definitely be made faster.
         private static LinkedList<T> ReverseLinkedList<T>(LinkedList<T> list)
         {
             LinkedList<T> myList = new LinkedList<T>();
