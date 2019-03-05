@@ -1,2 +1,1 @@
-# 100DaysOfCode
-My try at 100 days of coding.
+# 100 Days Of Code
